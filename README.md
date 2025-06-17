@@ -6,5 +6,5 @@ AWS SAA　問題20問
 ルビコン塾　第１回講義復習
 
 使用教材
-cloudtec
+cloudtech
 ルビコン塾
